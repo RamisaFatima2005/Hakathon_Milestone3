@@ -1,2 +1,2 @@
-# Hakathone_Milestone2
-HACKATHON Milestone2-Dynamic Resume Builder
+# Hakathone_Milestone3
+HACKATHON Milestone3-Dynamic Resume Builder
