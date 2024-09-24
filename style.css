@@ -1,0 +1,51 @@
+body {
+	background-color: #f8f4f4;
+	font-family: Arial, sans-serif;
+}
+
+#resume-form {
+	background-color: #cfaaaa;
+	padding: 20px;
+	border: 20px solid #050505;
+	border-radius: 10px;
+	width: 35%;
+	margin: 0 auto;
+}
+
+#resume-form label {
+	display: block;
+	margin-bottom: 10px;
+}
+
+#resume-form input[type="text"],
+#resume-form input[type="email"] {
+	width: 100%;
+	height: 30px;
+	margin-bottom: 20px;
+	padding: 10px;
+	border: 1px solid #000000;
+	border-radius: 5px;
+}
+
+#resume-form button[type="submit"] {
+	background-color: #3326e2;
+	color: #a8a8a8;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+#resume-form button[type="submit"]:hover {
+	background-color: #be93b1;
+}
+
+#resume {
+	background-color: #dfb7b7;
+	padding: 20px;
+	border: 10px solid #000000;
+	border-radius: 10px;
+	width: 50%;
+	margin: 0 auto;
+	margin-top: 20px;
+}
