@@ -4,7 +4,7 @@ body {
 }
 
 #resume-form {
-	background-color: #cfaaaa;
+	background-color: #949090;
 	padding: 20px;
 	border: 20px solid #050505;
 	border-radius: 10px;
@@ -27,21 +27,12 @@ body {
 	border-radius: 5px;
 }
 
-#resume-form button[type="submit"] {
-	background-color: #3326e2;
-	color: #a8a8a8;
-	padding: 10px 20px;
-	border: none;
-	border-radius: 5px;
-	cursor: pointer;
-}
-
 #resume-form button[type="submit"]:hover {
-	background-color: #be93b1;
+	background-color: #8f8a8d;
 }
 
 #resume {
-	background-color: #dfb7b7;
+	background-color: #8f8787;
 	padding: 20px;
 	border: 10px solid #000000;
 	border-radius: 10px;
